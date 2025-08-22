@@ -16,6 +16,11 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            <script
+              src="https://analytics.balmjs.com/api/script.js"
+              data-site-id="11"
+              defer
+            ></script>
           </Head>
 
           <body>
